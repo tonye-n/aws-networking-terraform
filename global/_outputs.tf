@@ -1,4 +1,4 @@
-output "brightkey_vpn" {
-  value       = var.brightkey_vpn
-  description = "Brightkey OpenVPN Endpoints"
+output "solemm_vpn" {
+  value       = var.solemm_vpn
+  description = "solemm OpenVPN Endpoints"
 }
